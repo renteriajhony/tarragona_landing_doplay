@@ -1,0 +1,24 @@
+AndroidStudioProjects
+Applications
+Banco
+Desktop
+Documents
+Downloads
+Library
+Library alias
+Movies
+Music
+OneDrive - Grupo Bancolombia
+PersonalSoft
+Pictures
+Postman
+Public
+WebstormProjects
+Yudi
+alm-release-key.keystore
+deplay.txt
+files.txt
+flutter
+iCloud Drive (Archive)
+query400-all-jd.jar
+transfiya
