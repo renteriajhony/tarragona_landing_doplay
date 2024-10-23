@@ -87773,7 +87773,7 @@ return A.axK(new A.ch(B.IN,A.e5(A.b([m,B.Wf,l,k,new A.ch(B.IL,A.e5(A.b([s,r,B.An
 A.JU.prototype={
 H(a){var s,r,q,p,o,n,m=null,l=$.e3,k=l?20:300,j=A.V(B.c.ae(178.5),144,164,174),i=A.bj("\xa1Con Tarragona Plataformas, su empresa est\xe1 en las mejores manos!",m,m,m,m,A.ct().$2$fontSize$fontWeight(l?18:40,B.z),B.e1,m)
 l=$.e3
-s=A.ex(m,l?5:40,m)
+s=A.ex(m,l?20:40,m)
 r=A.bj("Nos especializamos en la fabricaci\xf3n de plataformas de elevaci\xf3n y ascensores de alta calidad. Con un equipo comprometido y altamente capacitado, ofrecemos soluciones personalizadas y eficientes para cada necesidad de su negocio.",4,m,m,m,A.ct().$3$color$fontSize$fontWeight(B.j,l?16:20,B.cR),m,m)
 l=A.ct().$2$fontSize$fontWeight($.e3?16:20,B.z)
 q=A.bY(m,A.ct().$2$fontSize$fontWeight($.e3?16:20,B.l),"Estamos ubicados en la ")
